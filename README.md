@@ -167,28 +167,6 @@ Example business questions answered by this project:
 
 ---
 
-## Project Structure
-
-```text
-sql-data-warehouse-project/
-│
-├── datasets/
-│   ├── source_crm/
-│   └── source_erp/
-│
-├── scripts/
-│   ├── bronze/
-│   ├── silver/
-│   └── gold/
-│
-├── docs/
-│   ├── data_model.md
-│   └── data_catalog.md
-│
-├── tests/
-│   └── quality_checks.sql
-│
-└── README.md
 
 
 
