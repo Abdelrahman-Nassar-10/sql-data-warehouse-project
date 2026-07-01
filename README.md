@@ -172,7 +172,7 @@ Example business questions answered by this project:
 
 ## About Me
 
-My name is **Abdelrahman Nassar**. I am a Computer Science graduate focused on **Data Engineering, Data Analytics, SQL, and GIS**.
+My name is **Abdelrahman Nassar**. I am a Computer Science graduate focused on **Data Engineering, Data Analytics, Machine learning, SQL, and GIS**.
 
 I work on designing structured data models, building SQL-based data pipelines, cleaning and integrating datasets, and preparing data for reporting and business analysis. My technical focus is on transforming raw data into reliable, analysis-ready systems that support better decision-making.
 
